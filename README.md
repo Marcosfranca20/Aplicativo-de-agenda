@@ -1,2 +1,3 @@
-# Aplicativo-de-agenda
-Projeto criado no quarto ano do curso de Ciência da computação
+# Aplicativo de agenda
+
+### Aplicativo de agenda criado no React Native com interface e salvamento de dados
